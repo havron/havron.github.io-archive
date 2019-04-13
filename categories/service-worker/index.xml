@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service Worker on sam havron</title>
+    <link>https://havron.dev/categories/service-worker/</link>
+    <description>Recent content in Service Worker on sam havron</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Sam Havron</copyright>
+    <lastBuildDate>Tue, 20 Feb 2018 17:42:19 -0500</lastBuildDate>
+    
+	<atom:link href="https://havron.dev/categories/service-worker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>are you offline?</title>
+      <link>https://havron.dev/offline/</link>
+      <pubDate>Tue, 20 Feb 2018 17:42:19 -0500</pubDate>
+      
+      <guid>https://havron.dev/offline/</guid>
+      <description>Yikes, looks like you&amp;rsquo;re offline! But you can still browse any of my pages, because I&amp;rsquo;ve implemented magical service-workers. Carry on :)</description>
+    </item>
+    
+  </channel>
+</rss>

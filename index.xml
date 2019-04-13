@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sam havron on sam havron</title>
+    <link>https://havron.dev/</link>
+    <description>Recent content in sam havron on sam havron</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Sam Havron</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>are you offline?</title>
+      <link>https://havron.dev/offline/</link>
+      <pubDate>Tue, 20 Feb 2018 17:42:19 -0500</pubDate>
+      
+      <guid>https://havron.dev/offline/</guid>
+      <description>&lt;p&gt;Yikes, looks like you&amp;rsquo;re offline! &lt;strong&gt;But you can still browse any of my pages&lt;/strong&gt;,
+because I&amp;rsquo;ve implemented magical service-workers. Carry on :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>e-mail</title>
+      <link>https://havron.dev/email/</link>
+      <pubDate>Sun, 03 Sep 2017 17:19:34 -0400</pubDate>
+      
+      <guid>https://havron.dev/email/</guid>
+      <description>
+
+&lt;h1 id=&#34;use-any-of-these-to-contact-me&#34;&gt;&lt;em&gt;Use any of these to contact me:&lt;/em&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;code&gt;sgh65@cornell.edu&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;havron@cs.cornell.edu&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;sam@havron.xyz&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;s@m.havron.xyz&lt;/code&gt; (&lt;a href=&#34;http://xona.com/2004/11/03.html&#34; target=&#34;_blank&#34;&gt;domain hack&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&#34;shouldn-t-i-be-obfuscating-my-above-addresses-in-some-fashion&#34;&gt;Shouldn&amp;rsquo;t I be obfuscating my above addresses in some fashion?&lt;/h2&gt;
+
+&lt;p&gt;My addresses are easily harvested; for now,
+I allow this because I want to build a better understanding of the detriments
+ of obfuscation strategies to user-friendliness (including
+&lt;a href=&#34;https://softwareengineering.stackexchange.com/questions/26179/why-do-people-disable-javascript&#34; target=&#34;_blank&#34;&gt;JS environment assumptions&lt;/a&gt;)
+before committing to deploying one.
+The ultimate necessity of obfuscation is also &lt;a href=&#34;https://www.theguardian.com/technology/2010/dec/21/keeping-email-address-secret-spambots&#34; target=&#34;_blank&#34;&gt;unclear to
+me&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Most harvesters use sophisticated regex (and in the
+case of addresses embedded in images, OCR)
+techniques to reconstruct e-mail addresses. More deep-pocketed adversaries might
+&lt;strong&gt;simply hire humans on Amazon&amp;rsquo;s Mechanical Turk as harvesters&lt;/strong&gt;, which breaks virtually all obfuscation strategies!&lt;/p&gt;
+
+&lt;h3 id=&#34;more-optimal-obfuscation-strategies&#34;&gt;More Optimal Obfuscation Strategies&lt;/h3&gt;
+
+&lt;p&gt;For anyone interested in playing the e-mail obfuscation game,
+there&amp;rsquo;s a &lt;a href=&#34;https://superuser.com/questions/235937/does-e-mail-address-obfuscation-actually-work&#34; target=&#34;_blank&#34;&gt;myriad of
+strategies&lt;/a&gt;
+ that often trade user-friendliness for
+stronger obfuscation guarantees (e.g. e-mail addresses hidden behind Google CAPTCHAs seem pretty robust, but are a burden on legitimate users).&lt;/p&gt;
+
+&lt;p&gt;Short of only inviting people to contact me, I have not
+come up with a reliable and user-friendly obfuscation strategy
+to protect myself from the inevitable crowd-source-powered (human) harvesters.
+My strategy would likely entail a written description of how to construct my address,
+described in a way that is sufficiently difficult for state-of-the-art NLP techniques to solve,
+and such that there is a way for the construction to distinguish between legitimate users and human harvesters.&lt;/p&gt;
+
+&lt;p&gt;Have a great strategy in mind? Let&amp;rsquo;s chat!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bio&#43;cv</title>
+      <link>https://havron.dev/bio/</link>
+      <pubDate>Wed, 12 Jul 2017 17:48:35 -0400</pubDate>
+      
+      <guid>https://havron.dev/bio/</guid>
+      <description>
+
+&lt;p&gt;&lt;img style=&#34;width:20%; height:20%;  float: right; margin: 0 0 10px 10px;&#34; src=&#34;https://havron.dev/img/portrait.jpg&#34;&gt;
+Here is a brief biography suitable for use in brochures, advertisements, media,
+etc. The image on this page should be of sufficient resolution for small
+printing. My &lt;strong&gt;CV/resume&lt;/strong&gt; is available &lt;a href=&#34;https://github.com/havron/cv&#34; target=&#34;_blank&#34;&gt;on GitHub&lt;/a&gt; as
+a PDF, current as of latest commit.&lt;/p&gt;
+
+&lt;h1 id=&#34;copy-paste-this-blurb-for-talks-etc&#34;&gt;copy/paste this blurb for talks, etc&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Sam Havron is a PhD student in computer science at Cornell University; he is
+in residence at Cornell Tech on Roosevelt Island in New York City.
+He currently works on computer
+security and privacy issues in the context of intimate partner violence (IPV).
+His research has been published at top security conferences such as IEEE S&amp;amp;P, and
+featured by media outlets including the New York Times and has been quoted in &lt;a href=&#34;https://www.wired.com/story/eva-galperin-stalkerware-kaspersky-antivirus/&#34; target=&#34;_blank&#34;&gt;WIRED&lt;/a&gt;.
+When not staring at metal rectangles full of little lights,
+Sam can often be spotted reading books or exploring new places.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to &lt;a href=&#34;https://users.ece.cmu.edu/~jmmccune/bio.html&#34; target=&#34;_blank&#34;&gt;Jonathan McCune&lt;/a&gt; for
+inspiring this template&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>courses</title>
+      <link>https://havron.dev/coursework/</link>
+      <pubDate>Thu, 17 Nov 2016 12:09:12 -0500</pubDate>
+      
+      <guid>https://havron.dev/coursework/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://havron.dev/img/bloomberg.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;div-style-text-align-center-the-bloomberg-center-https-tech-cornell-edu-campus-bloomberg-center-div&#34;&gt;&lt;div style=&#34;text-align:center&#34;&gt;The &lt;a href=&#34;https://tech.cornell.edu/campus/bloomberg-center&#34; target=&#34;_blank&#34;&gt;Bloomberg Center&lt;/a&gt;&lt;/div&gt;&lt;/h3&gt;
+
+&lt;h1 id=&#34;enrolled&#34;&gt;enrolled&lt;/h1&gt;
+
+&lt;p&gt;I spend most of my time on &lt;a href=&#34;https://havron.dev/research/&#34;&gt;research&lt;/a&gt; &amp;ndash; here are a few
+courses I took along the way in grad school:&lt;/p&gt;
+
+&lt;ul class=&#34;ul-interests fa-ul&#34;&gt;
+&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-university&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://cornelltech.github.io/cs5785-fall-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS 5785: Applied Machine Learning&lt;/a&gt;, with 
+&lt;a href=&#34;https://blogs.cornell.edu/techfaculty/serge-belongie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Serge Belongie&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-university&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://www.cs.cornell.edu/~shmat/courses/cs6431/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS 6431: Security and Privacy Technologies&lt;/a&gt;, with 
+&lt;a href=&#34;https://www.cs.cornell.edu/~shmat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Vitaly Shmatikov&lt;/a&gt;
+and
+&lt;a href=&#34;https://rist.tech.cornell.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Tom Ristenpart&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-university&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://www.cs.cornell.edu/courses/cs6110/2018sp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS 6110: Advanced Programming Languages&lt;/a&gt;, with 
+&lt;a href=&#34;https://www.cs.cornell.edu/~asampson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Adrian
+Sampson&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-university&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://www.cs.cornell.edu/courses/cs6820/2017fa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS 6820: Analysis of Algorithms&lt;/a&gt;, with 
+&lt;a href=&#34;https://www.cs.cornell.edu/~rdk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Bobby Kleinberg&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;teaching&#34;&gt;teaching&lt;/h1&gt;
+
+&lt;p&gt;TBD: &lt;a href=&#34;https://github.com/havron/teaching&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Repository for remarkable
+teaching &lt;i class=&#34;fa fa-github&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+&lt;/strong&gt;&lt;/a&gt; that I host on
+GitHub; therein lie some ideas and philosophies that are (perhaps)
+increasingly &lt;em&gt;rare&lt;/em&gt;, &lt;em&gt;valuable&lt;/em&gt;, and &lt;em&gt;meaningful&lt;/em&gt; for world-class teaching.&lt;/p&gt;
+
+&lt;p&gt;As an grad student, I TA&amp;rsquo;d the following courses:
+&lt;ul class=&#34;ul-interests fa-ul&#34;&gt;
+&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-university&#34;&gt;&lt;/i&gt;
+CS 5435: &lt;a href=&#34;http://www.arijuels.com/teaching/cs-5435-fall-2018/&#34; target=&#34;_blank&#34;&gt;Security and Privacy in the
+Wild&lt;/a&gt; (1 semester: Fall 2018)
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;As an undergrad, I TA&amp;rsquo;d the following courses:
+&lt;ul class=&#34;ul-interests fa-ul&#34;&gt;
+&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-university&#34;&gt;&lt;/i&gt;
+CS/ECE 2330: Digital Logic
+Design (4 semesters: Fall 2015, Spring 2016, Fall 2016, Spring 2017)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-university&#34;&gt;&lt;/i&gt;
+CS 2150: &lt;a href=&#34;https://github.com/aaronbloomfield/pdr&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fa fa-github&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ Program and Data
+Representation&lt;/a&gt;
+(3 semesters: Spring 2016, Fall 2016, Spring 2017)
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>https://havron.dev/research/</link>
+      <pubDate>Mon, 14 Nov 2016 13:40:07 -0500</pubDate>
+      
+      <guid>https://havron.dev/research/</guid>
+      <description>
+
+&lt;h1 id=&#34;interests&#34;&gt;Interests&lt;/h1&gt;
+
+&lt;p&gt;My research interests include topics in computer security &amp;amp; privacy,
+applied cryptography, fairness and accountability in machine learning, and interdisciplinary efforts
+among these areas. I currently work on computer security and privacy issues in the context
+of intimate partner violence (IPV), as part of a multi-institutional &lt;a href=&#34;https://www.ipvtechresearch.org&#34; target=&#34;_blank&#34;&gt;research
+team&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some research topics I&amp;rsquo;ve explored in depth include those listed in &lt;a href=&#34;https://www.cs.cornell.edu/~shmat/courses/cs6431/index.html&#34; target=&#34;_blank&#34;&gt;Cornell CS
+6431: Security &amp;amp; Privacy
+Technologies&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h1&gt; Publications &lt;/h1&gt;
+&lt;ul class=&#34;ul-interests fa-ul&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+R. Chatterjee, P. Doerfler, H. Orgad, &lt;em&gt;S. Havron&lt;/em&gt;, J. Palmer, D.
+Freed, K. Levy, N. Dell, D. McCoy, T. Ristenpart: &lt;strong&gt;&lt;a href=&#34;https://www.ipvtechresearch.org/pubs/spyware.pdf&#34; target=&#34;_blank&#34;&gt;The Spyware Used in Intimate
+Partner Violence&lt;/a&gt;.
+IEEE S&amp;amp;P (Oakland) 2018&lt;/strong&gt;.
+[&lt;a href=&#34;https://www.ipvtechresearch.org/pubs/spyware.pdf&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ Paper PDF&lt;/a&gt;]. Media coverage: &lt;a href=&#34;https://www.nytimes.com/2018/05/19/technology/phone-apps-stalking.html&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;The New York Times&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://www.vox.com/the-big-idea/2018/5/21/17374434/intimate-partner-violence-spyware-domestic-abusers-apple-google&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Vox&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://freedom-to-tinker.com/2018/02/23/how-tech-is-failing-victims-of-intimate-partner-violence-thomas-ristenpart-at-citp/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Freedom to Tinker (Princeton CITP)&lt;/em&gt;&lt;/a&gt;.
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;em&gt;S. Havron&lt;/em&gt;: &lt;strong&gt;&lt;a href=&#34;https://havron.dev/pubs/mpcposter.pdf&#34;&gt;Poster: Secure
+Multi-Party Computation as a Tool for Privacy-Preserving Data
+Analysis&lt;/a&gt;.
+IEEE S&amp;amp;P (Oakland) 2016&lt;/strong&gt;.
+[&lt;a href=&#34;https://havron.dev/pubs/mpcposter.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ Paper PDF&lt;/a&gt;, &lt;a href=&#34;https://havron.dev/pubs/mpc_poster_print.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ Poster PDF&lt;/a&gt;]
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h1&gt; Acknowledgments &lt;/h1&gt;
+&lt;ul class=&#34;ul-interests fa-ul&#34;&gt;
+&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+H. Li, D. Evans: &lt;a href=&#34;https://arxiv.org/pdf/1706.05085.pdf&#34; target=&#34;_blank&#34;&gt;Horcrux: A Password Manager for Paranoids&lt;/a&gt;. &lt;strong&gt;arXiv&lt;/strong&gt;:1706.05085v1 [cs.CR] 2017-Jun-15.
+[&lt;a href=&#34;https://arxiv.org/pdf/1706.05085.pdf&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ Paper PDF&lt;/a&gt;]
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h1&gt; Talks &lt;/h1&gt;
+&lt;ul class=&#34;ul-interests fa-ul&#34;&gt;
+&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://speakerdeck.com/samuelhavron/sts-thesis-proposal-privacy-and-trust-of-password-managers&#34; target=&#34;_blank&#34;&gt;STS Thesis Proposal: Privacy and Trust of Password
+Managers.&lt;/a&gt;
+&lt;em&gt;2016-Nov-02 at the University of Virginia&lt;/em&gt;&lt;/p&gt;
+
+&lt;!--&lt;script async class=&#34;speakerdeck-embed&#34;
+data-id=&#34;00d25d30ddcd4fa499fa6b3447be0a49&#34; data-ratio=&#34;1.7777777778&#34;
+src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt; --&gt;
+
+&lt;p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h1&gt;Mentors&lt;/h1&gt;
+I&amp;rsquo;m eternally grateful to my mentors,
+who have given me immeasurable help and able guidance
+in my research and in my general life. I would not be where
+I am today without these wonderful people.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://rist.tech.cornell.edu&#34; target=&#34;_blank&#34;&gt;Professor Tom Ristenpart&lt;/a&gt;
+ and &lt;a href=&#34;http://nixdell.com&#34; target=&#34;_blank&#34;&gt;Professor Nicki Dell&lt;/a&gt; advise me as a grad student.
+&lt;a href=&#34;http://www.cs.virginia.edu/~evans&#34; target=&#34;_blank&#34;&gt;Professor Dave
+ Evans&lt;/a&gt; advised me as an undergrad.&lt;/p&gt;
+
+&lt;p&gt;&lt;h1&gt; Awards &lt;/h1&gt;
+&lt;ul class=&#34;ul-interests fa-ul&#34;&gt;
+&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://gradschool.cornell.edu/costs-and-funding/fellowships/new-student-fellowship&#34; target=&#34;_blank&#34;&gt;Cornell Graduate School Fellowship (2017-2018)&lt;/a&gt;; about 20% of Cornell PhD students receive these each year
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://uvacsnews.wordpress.com/2017/05/12/congratulations-to-our-cs-award-winners/&#34; target=&#34;_blank&#34;&gt;Louis T. Rader Award for Outstanding
+Undergraduate Education
+(2017)&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://havron.dev/img/identity.png&#34; alt=&#34;xkcd&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;div-style-text-align-center-xkcd-1121-https-xkcd-com-1121-div&#34;&gt;&lt;div style=&#34;text-align:center&#34;&gt;&lt;em&gt;&lt;a href=&#34;https://xkcd.com/1121/&#34; target=&#34;_blank&#34;&gt;xkcd/1121&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fun</title>
+      <link>https://havron.dev/fun/</link>
+      <pubDate>Sun, 06 Nov 2016 18:49:59 -0500</pubDate>
+      
+      <guid>https://havron.dev/fun/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color:#B31B1B&#34;&gt;&lt;strong&gt;cool people and cool things :)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/user/sgh7cc/playlist/3MHDpggfzj9bwzR2v9SRnH&#34; target=&#34;_blank&#34;&gt;my ithaca Spotify playlist&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/user/jacksepticeye&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;jacksepticeye&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome, and meta-blogging</title>
+      <link>https://havron.dev/blog/2016/welcome-and-meta-blogging/</link>
+      <pubDate>Fri, 15 Jul 2016 13:58:27 -0400</pubDate>
+      
+      <guid>https://havron.dev/blog/2016/welcome-and-meta-blogging/</guid>
+      <description>
+
+&lt;p&gt;Welcome to my blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgs.xkcd.com/comics/blogging.png&#34; alt=&#34;xkcd comic: blogging&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;xkcd/741&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;curiosity-and-participation&#34;&gt;Curiosity and participation&lt;/h4&gt;
+
+&lt;p&gt;I spend a lot of time on &amp;ldquo;the web&amp;rdquo; (and while I appreciate the availability of such
+a seemingly-succinct term, I feel rather guilty by attempting to account for &lt;a href=&#34;http://www.livescience.com/54094-how-big-is-the-internet.html&#34; target=&#34;_blank&#34;&gt;zetta-bytes of
+indexed data&lt;/a&gt;
+ with two 3-letter-1-syllable words).
+ The pages I browse in my leisure are usually interesting enough to keep my
+ attention (admittedly, this is &lt;a href=&#34;https://www.youtube.com/watch?v=TudFAEUkR9Y&#34; target=&#34;_blank&#34;&gt;not too high of a
+ threshold&lt;/a&gt;), and the best content
+ is often free-of-charge. Almost any rote or technical question I have can be answered
+ instantly, and accessing scores of articles, videos, podcasts, forum-threads, and opinion pieces on topics of all kinds in real-time is a given. All controllable at any
+ instant from a device fitting in my pocket, of course. It is increasingly
+ difficult for me &amp;ndash; born in the mid 1990&amp;rsquo;s &amp;ndash; to imagine the lives of
+ those who were not (or are currently not) connected to the vast trove of hyperlinks
+ that many people now rely on (and trust) for nearly everything they do.
+ In exchange for all of this convenience, I must concede much of my
+ privacy, &lt;a href=&#34;https://www.youtube.com/watch?v=_kBlH-DQsEg&#34; target=&#34;_blank&#34;&gt;which is in many ways dead&lt;/a&gt;.
+ Despite this cost, I imagine I would miss the level of connection to the
+ rest of the world which the web &amp;ndash; or a similar construct &amp;ndash; can offer,
+ were it to become permanently inaccessible.&lt;/p&gt;
+
+&lt;p&gt;Occasionally, though, I find myself at a dead-end. &lt;a href=&#34;https://duckduckgo.com&#34; target=&#34;_blank&#34;&gt;DuckDuckGo&lt;/a&gt;
+does not return any results, and &lt;a href=&#34;https://google.com&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt; has nothing interesting
+to report, either. After sifting through pages-upon-pages of content, there are no
+ hyperlinks left to be followed in my search for
+ answers. It is often in this situation (and a few select others) when I most
+ acutely recognize that I am undeniably, first-and-foremost, a &lt;em&gt;consumer&lt;/em&gt; of the
+ web. I see nothing inherently wrong with this notion (or with anyone else who
+ identifies in this manner), yet I still feel somewhat troubled. If my
+ experience with the web were analogous to observing a vast, fantastic, and
+ full-of-life formal ball &amp;ndash; yet subsequently declining to participate in a dance with
+ any kind-hearted and well-intentioned person, &lt;em&gt;should I be asked&lt;/em&gt; &amp;ndash; I posit this would be considered quite
+ rude by the other attendees, the requester, and myself. Is this a reasonable
+ analogy with which to encapsulate the entirety of the web and all of its nuances?
+ Probably not (though I suspect any such attempt would necessitate &lt;a href=&#34;https://www.youtube.com/watch?v=xdhLQCYQ-nQ&#34; target=&#34;_blank&#34;&gt;references to cats&lt;/a&gt;).
+ Ultimately, it is not as if the web is a &lt;a href=&#34;https://xkcd.com/364/&#34; target=&#34;_blank&#34;&gt;key-signing party&lt;/a&gt;; I need not
+ participate on the web to freely enjoy its content.&lt;/p&gt;
+
+&lt;p&gt;Even so, I begin to think. What can &lt;em&gt;I&lt;/em&gt; do? Do I have any valuable
+ contributions to bring forth to a place in which I spend much of my time?
+ I doubt I will ever be convinced of a definitive answer to this last question,
+ but I start thinking of different approach vectors anyways.
+ A YouTube channel? A Twitch or Twitter live-feed? How about a stack-exchange account? Dare I
+ suggest a budding career as a &amp;ldquo;meme lord&amp;rdquo;? In different ways, I am intrigued by
+ each of these ideas, but I envision a medium more&amp;hellip;enduring. Flexible.
+ Accessible. And so, with many other worthy options available to me, I reached a
+ settlement: a simple text-based web-log will do.&lt;/p&gt;
+
+&lt;p&gt;Prior to writing this post, I have never kept a formal log of my opinions and
+reflections on any material (no journal, no diary, no audio-notes-to-self). Am I capable of doing such a task in a manner pleasing
+to the general reader? Is it possible for me to accurately convey my full thoughts and
+experiences within the boundaries of journalism, or at all for that matter?
+Whether or not I will achieve long-term success in any of these tasks is presently unclear to me,
+and I suppose I will never get a satisfying answer to my curiosities unless I take action.
+And so the blog began to take form, as I write somewhat
+wistfully in &lt;a href=&#34;http://www.vim.org/&#34; target=&#34;_blank&#34;&gt;Vim the editor&lt;/a&gt;, using
+&lt;a href=&#34;https://daringfireball.net/projects/markdown/&#34; target=&#34;_blank&#34;&gt;markdown&lt;/a&gt; syntax and bringing a
+trusty &lt;a href=&#34;http://www.vim.org/scripts/script.php?script_id=131&#34; target=&#34;_blank&#34;&gt;spell-checker&lt;/a&gt;
+in tow (I can assert that many a &lt;code&gt;[s&lt;/code&gt;, &lt;code&gt;zg&lt;/code&gt;, and &lt;code&gt;z=&lt;/code&gt; are being used).&lt;/p&gt;
+
+&lt;h4 id=&#34;before-the-fun-a-disclaimer&#34;&gt;Before the fun, a Disclaimer&lt;/h4&gt;
+
+&lt;p&gt;The primary driver behind this blog is having fun, and the opportunity for me to write
+about material which I consider amenable to discussion in some context.
+I&amp;rsquo;d like to note that any and all thoughts I now &amp;ndash; or will &amp;ndash; express on this
+blog are &lt;em&gt;not&lt;/em&gt; intended to be
+taken too seriously: my blog and its contents are never meant to be considered
+the workings of a manifesto, hard-set rule-book, or
+any of their ilk. Presently at 20 years of age, I find it very difficult
+to imagine myself creating, understanding, or condoning formal
+stances regarding my existence, purpose, or ability to cast judgment
+(particularly when considering the
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Frontal_lobe&#34; target=&#34;_blank&#34;&gt;frontal lobe&lt;/a&gt; of my brain is a long ways away from reaching full maturity, and my relationship with God is far from adequately explored).
+The blog can certainly change to adapt to events happening in my life, and will
+always be a flexible medium which I expect to grow alongside me.&lt;/p&gt;
+
+&lt;p&gt;Before enumerating what I initially believe the blog is intended to be (and to
+not be), I have a few remarks on readability and usability that I feel compelled to discuss.
+You&amp;rsquo;re welcome to skip around at your leisure, as the sections of this post are
+mostly independent of each other&amp;ndash;reading them in the order I placed them in is
+recommended for optimal comprehension, though. Finally, I will mention that this post
+covers a lot of meta-data about the blog, and is not likely to be interpreted
+as very interesting to read in comparison to the content of future posts. (yes,
+it&amp;rsquo;s too late to turn back, the sections are &lt;a href=&#34;https://xkcd.com/899/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;numbered&lt;/em&gt;
+now&lt;/a&gt;&amp;hellip;)&lt;/p&gt;
+
+&lt;h2 id=&#34;1-styling&#34;&gt;1. Styling&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-1-readability&#34;&gt;1.1. Readability&lt;/h3&gt;
+
+&lt;p&gt;The styling used in this blog is intentionally kept simple in comparison to what I
+have come to expect from most web-based blogs. In general, I will give my attention
+to any media (e.g. text, image, audio, video) that has a positive net value or
+interesting qualities to it, but the styling choices employed by most
+blogs and media sites make the process of lexing, parsing, semantically
+analyzing, and evaluating (interpreting) the pattern of bits which
+illuminate my screen rather strenuous and not enjoyable. However, I am
+not bothered enough by this to cease media consumption altogether; I often
+find the content itself to be interesting and worthwhile, and so I remain
+under the auspices of their styling.&lt;/p&gt;
+
+&lt;h4 id=&#34;1-1-1-fonts-and-rendering&#34;&gt;1.1.1. Fonts and Rendering&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://fonts.google.com/specimen/Vollkorn&#34; target=&#34;_blank&#34;&gt;Vollkorn&lt;/a&gt; (a serif) is the font
+used to render all text on the blog at the time of writing &amp;ndash; according to &lt;a href=&#34;http://friedrichalthausen.de/&#34; target=&#34;_blank&#34;&gt;its
+designer&lt;/a&gt;, the font&amp;rsquo;s name is German for
+&amp;lsquo;wholemeal&amp;rsquo; and is described as &amp;ldquo;bouncing and healthy&amp;rdquo; &amp;ndash; I have not devised my
+own anthropomorphic adjectives for Vollkorn (&amp;hellip;yet). I am overall pleased
+with the current rendering of the blog, and am able to read content with minimal
+discomfort on mobile and desktop; however, I am acutely aware that my
+presentation of text on this page may not be enjoyable for all audiences.  If
+you prefer to read in &lt;a href=&#34;../raw/welcome.txt&#34;&gt;plaintext&lt;/a&gt;, or would like to render
+the &lt;a href=&#34;../raw/welcome.md&#34;&gt;raw markdown&lt;/a&gt; to suit your own optimal viewing
+environment, you will find links to each at the bottom of every post on the blog
+(the plaintext includes all hyperlinks, re-formatted with &lt;code&gt;pandoc&lt;/code&gt; as
+reference-style links).&lt;/p&gt;
+
+&lt;p&gt;Settling on color choices for hyperlinks, code snippets, and other pigment-related aspects of the
+blog are perhaps the most difficult commitments for me to make. Out of 16,777,216
+available colors, which do I choose to render in hopes of appeasing the reader
+and providing maximum legibility? Are my blues too dark, my oranges too bright?
+I doubt I will ever be fully-satisfied with the coloring, and anticipate
+it will be perpetually tweaked. I may eventually commit to writing a guide
+with recommendations of different fonts, styling, and legibility considerations
+for rendering content, which could be helpful to readers whom are seeking
+alternatives to browsing the blog as is. It is my utmost goal to provide an
+enjoyable reading experience for all who come to the blog&amp;ndash;I am open to
+suggestions on different styling, fonts, and other typography (e.g. &lt;a href=&#34;http://www.gust.org.pl/projects/e-foundry/tex-gyre&#34; target=&#34;_blank&#34;&gt;TeX
+Gyre&lt;/a&gt; collection and the like). You&amp;rsquo;re
+welcome to send me a &lt;a href=&#34;https://github.com/samuelhavron/blog&#34; target=&#34;_blank&#34;&gt;pull request&lt;/a&gt; or leave comments.&lt;/p&gt;
+
+&lt;h4 id=&#34;1-1-2-embedded-content-and-external-sources&#34;&gt;1.1.2. Embedded Content and External Sources&lt;/h4&gt;
+
+&lt;p&gt;The readability of a page further depends upon, to my eyes, the presence and
+placement of embedded, non-textual media such as photographs or video (&lt;a href=&#34;https://xkcd.com/1301/&#34; target=&#34;_blank&#34;&gt;I am looking at you,
+GIFs&lt;/a&gt;.). Communicating my thoughts through media other than text will be done sparingly, and often be linked-to content rather than embedded, despite the ease of embedding
+images, audio, and video on the blog. I prefer to maintain a sense of continuity
+in the medium I am using to convey myself; disrupting its flow without good
+reason is decidedly unpleasant. I believe I feel this way in part
+due to my inclination to open embedded content at its (external) source
+rather than on the page itself. In defense of embedded content, seeing excerpts of
+quoted text from an external source or including a well-placed image is perfectly
+reasonable to me (perhaps you will see &amp;ndash; or &lt;em&gt;have seen&lt;/em&gt; &amp;ndash; instances of
+both in this very post&amp;hellip;odd&amp;hellip;). I genuinely do not mind experiencing
+non-textual media, and often &lt;em&gt;enjoy&lt;/em&gt; the content when it is either befitting or adds a
+layer to the content consumption which the original medium is inadequately suited to
+serve &amp;ndash; the subtlety that an external link provides to-this-end is a nicety.&lt;/p&gt;
+
+&lt;h3 id=&#34;1-2-usability&#34;&gt;1.2. Usability&lt;/h3&gt;
+
+&lt;h4 id=&#34;1-2-1-navigation&#34;&gt;1.2.1. Navigation&lt;/h4&gt;
+
+&lt;p&gt;As you may have noticed, on the navigation links I provide &amp;ndash; either on the top
+right of the page for desktop users, or in draw-table fashion from the
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Hamburger_button&#34; target=&#34;_blank&#34;&gt;hamburger button&lt;/a&gt; for mobile
+users &amp;ndash; all of the options contain only two characters. It may seem rather
+foolish to use such little space when a much wider screen real-estate is
+available. Initially, I spelled out each navigation link as follows:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;| blog home | categories | tags | contact me | main site |
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;During earlier designs of the blog, this format appeared to render quite nicely
+&amp;ndash; that is, until I made the mistake of attempting to read text on the page.
+It became immediately apparent on
+the desktop view that spelling out each link made for a very distracting reading
+environment. The bright white color of the links certainly did not help this predicament
+any, so a simpler approach is what you see now. &lt;code&gt;ls&lt;/code&gt;, ~naturally~, is short for
+&lt;code&gt;list&lt;/code&gt; (as in, &amp;ldquo;list all of the blog entries&amp;rdquo;; it&amp;rsquo;s a &lt;a href=&#34;https://xkcd.com/1508/&#34; target=&#34;_blank&#34;&gt;Unix thing&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Why have a navigation bar at all, then? Isn&amp;rsquo;t its mere existence at the heart of
+my dissatisfaction with encountering distracting, eye-arresting content while
+trying read a blog? Well, as the title of this subsection suggests: I include
+the navigation bar because it affords crucial
+&lt;em&gt;usability&lt;/em&gt;. I find that my general enjoyment of using a site starts with
+an easily-accessible means of navigating to important pages, and so
+I have attempted to replicate this principle-for-enjoyment on both the blog and &lt;a href=&#34;https://havron.dev/../index.html&#34;&gt;the main
+site&lt;/a&gt;.
+Furthermore, I experience a small, yet persistent level of discomfort with the complete
+absence of identifying markers such as a navigation bar &amp;ndash;
+however subtly I &lt;em&gt;do&lt;/em&gt; in fact prefer them to appear.
+And that is how the navigation bar (and its contents) came to be.&lt;/p&gt;
+
+&lt;p&gt;My largest regret in including a navigation bar actually has nothing to do with
+readability, and yet it bothers me deeply: for readers using a mouse
+on the desktop view of the site, the navigation bar has little respect for &lt;a href=&#34;https://en.wikipedia.org/wiki/Fitts%27s_law&#34; target=&#34;_blank&#34;&gt;Fitts&amp;rsquo;
+Law&lt;/a&gt; in the context of affording accessibility
+between navigation links and blog posts themselves; it is a tremendous flaw that
+is (requisite?) payment for having a more distraction-free reading environment &amp;ndash; at least
+until I can devise
+a better solution. I thereby elect to use the touch-screen capability of my laptop
+computer to invoke hyperlinks, rather than suffer my self-imposed penalty of
+mishandling Fitts&amp;rsquo; Law.
+I highly encourage all readers whom find the navigation bar&amp;rsquo;s presence or interactions distracting to render the &lt;a href=&#34;../raw/welcome.md&#34;&gt;raw markdown&lt;/a&gt; in an environment which pleases them.&lt;/p&gt;
+
+&lt;h4 id=&#34;1-2-2-organization&#34;&gt;1.2.2. Organization&lt;/h4&gt;
+
+&lt;p&gt;There actually isn&amp;rsquo;t a whole lot to say on this aspect of the site.
+With such a broad array of topics to blog about (see 2.2.),
+and potentially different audiences for each,
+I decided that organization by tags and categories are currently the best tool available
+to me with which to sort the content I write. It turns out that I do have &lt;a href=&#34;https://havron.dev/../search.html&#34;&gt;search
+capabilities on the site&lt;/a&gt;, but the results from major search
+engines are simply not as fast, accurate, or efficient as navigating through
+tags and categories. There is an interesting
+&lt;a href=&#34;https://gist.github.com/sebz/efddfc8fdcb6b480f567&#34; target=&#34;_blank&#34;&gt;Gist on GitHub&lt;/a&gt; suggesting a
+client-side script which will index, and, upon entering search terms, retrieve posts by leveraging
+regular expressions&amp;ndash;did I mention that this blog is intentionally deployed
+statically, and as such no tasks can be
+delegated server-side? You also may have noticed that I start indexes for each section of
+this post at &amp;lsquo;1&amp;rsquo; and not &amp;lsquo;0&amp;rsquo;. Will I &amp;nbsp;&lt;a href=&#34;https://xkcd.com/163/&#34; target=&#34;_blank&#34;&gt;regret this
+decision&lt;/a&gt; in the future?
+Probably. It&amp;rsquo;s nothing &lt;code&gt;sed&lt;/code&gt; can&amp;rsquo;t handle if needed, though. Lastly, a keen reader
+familiar with the university I attend for undergraduate studies will notice that
+some of the organization, and in fact content for this very post is inspired by
+&lt;a href=&#34;https://www.cs.virginia.edu/tychonievich/blog/&#34; target=&#34;_blank&#34;&gt;Luther&amp;rsquo;s Meanderings&lt;/a&gt;, a blog which I
+enjoy reading and highly recommend as a source of interesting, qualitative content.&lt;/p&gt;
+
+&lt;p&gt;Overall, is it reasonable for me to assume that my own values and preferences for
+readability and usability as noted above should be fully-embraced by others whom are reading
+the blog, in part, for the opportunity to experience my content through a
+personal, natural lens?
+I am genuinely unsure.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-what-is-max-blog&#34;&gt;2. What is max blog?&lt;/h2&gt;
+
+&lt;h3 id=&#34;2-1-naming&#34;&gt;2.1. Naming&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgs.xkcd.com/comics/what_xkcd_means.png&#34; alt=&#34;xkcd comic: what does the name mean? 207&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;xkcd/207&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;2-1-1-why-use-a-name&#34;&gt;2.1.1. Why use a name?&lt;/h4&gt;
+
+&lt;p&gt;Does a personal blog need to have a name? Could there exist biased identities,
+relations, or constructs which I implicitly claim to associate with or represent
+by dedicating a name to the blog? I do not believe that creating such
+a label is at all necessary for my use case&amp;ndash;so why give the blog a name?
+According to &lt;a href=&#34;https://en.wikipedia.org/wiki/Name&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;, there are three common
+uses for the term:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;In the ancient world, names were thought to be extremely powerful
+and to act, in some ways, as a
+separate manifestation of a person or deity. This viewpoint is responsible
+both for the reluctance to use the proper name of God in Hebrew writing or
+speech, as well as the common understanding in ancient magic that magical
+rituals had to be carried out &amp;ldquo;in [someone&amp;rsquo;s] name&amp;rdquo;. In the Old Testament, the
+names of individuals are meaningful, and a change of name indicates a change
+of status.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A name for a brand or product is heavily influenced by marketing research
+and strategy to be appealing and marketable. The brand name is often a
+neologism or pseudoword.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A name is a term used for identification. Names can identify a class or
+category of things, or a single thing, either uniquely, or within a given
+context.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have yet to establish a formal stance on each of these definitions, and whether or not
+any of them are applicable in any part to my personal blog. I certainly do not consider
+ the name to be associated with a particular religion or be indicative of any status or title,
+ nor do I desire to advertise or market it (see 2.3.).
+It seems to follow that &amp;ldquo;max blog&amp;rdquo; is more-or-less in line with the 3rd definition.
+I feel dissatisfied with the lack of my own formal definition which
+uniquely fits what I believe are my intentions, but I will
+resign to the given 3rd definition for the time being.&lt;/p&gt;
+
+&lt;p&gt;Lastly, I hold no definitive or reasonable argument for why there may be net value or
+benefit to collectively referring to these text files as &amp;ldquo;max blog&amp;rdquo;.
+At the very least, I do not &lt;em&gt;intend&lt;/em&gt; to deceive readers or claim I accurately represent
+a subset of the words &amp;ldquo;meticulousness, abstraction, xyz&amp;rdquo; in any satisfying or verifiable manner.
+I believe it is too early to know the answers to most of my own questions on
+the subject. Perhaps, though, I take the idea of a name far too seriously&amp;hellip;&lt;/p&gt;
+
+&lt;h4 id=&#34;2-1-2-max&#34;&gt;2.1.2. &amp;ldquo;max&amp;rdquo;&lt;/h4&gt;
+
+&lt;p&gt;As for the terms themselves, I attribute much of my knowledge
+of computer science to learning how to think with and recognize meticulous behavior, and
+to discovering the affordances of abstraction, a construct with which many different
+levels of detail come together to form a cohesive and often elegant stack&amp;ndash;
+I intend to write blog entries with these core principles in mind, particularly
+with entries more technical in nature. &amp;ldquo;xyz&amp;rdquo; is a
+not-so-cleverly-disguised reference to the gTLD upon which this blog resides at
+the time of writing (somewhere in the depths of Amazon Cloudfront and S3); &amp;ldquo;xyz&amp;rdquo; is also intended to imply &amp;ldquo;and everything else&amp;rdquo;
+when read in conjunction with the former two terms (a &lt;a href=&#34;https://en.wikipedia.org/wiki/Kleene_star&#34; target=&#34;_blank&#34;&gt;Kleene
+star&lt;/a&gt; is
+suitable here as well). The ordering of the
+initials was entirely due to the coherent word &amp;ldquo;max&amp;rdquo; that forms given the
+arrangement. Perhaps the name of the blog will eventually change, disappear, or stay for
+an indefinite amount of time. My goal in this respect remains to provide a descriptor
+of the blog which is not in any manner deceiving or inaccurate to the reader.&lt;/p&gt;
+
+&lt;h3 id=&#34;2-2-the-blog-is&#34;&gt;2.2. The blog is&lt;/h3&gt;
+
+&lt;p&gt;primarily a place for me to respectfully express my own thoughts and
+curiosities to the general reader on
+any material &amp;ndash; be it external, or original &amp;ndash; which I either find intriguing,
+important to discuss, and/or worth the reader&amp;rsquo;s attention.
+In addition to technically-oriented posts, I may write in a respectful,
+civilized, and open-minded
+manner on religion, popular media, politics, or other very opinionated topics. I
+especially encourage writing comments on opinionated posts; all entries I consider within these
+bounds will be marked with the &lt;a href=&#34;https://havron.dev/categories/opinion/&#34;&gt;&lt;code&gt;opinion&lt;/code&gt;&lt;/a&gt; category.
+On principle, if I have had an experience in which I believe public writing on may benefit the
+general reader, I will write, modulo scheduling (see 3.1.).&lt;/p&gt;
+
+&lt;p&gt;In addition, I aim to be cognizant of relevant, reported news at the time of
+writing posts as a factor to posting respectful writing.
+If you are reading this entry at or shortly after the time of publication, you are probably
+aware of the many protests currently happening across the United States
+in response to the deaths and treatment of both black citizens and state police
+officers (&lt;a href=&#34;https://cdn.theatlantic.com/assets/media/img/notes/2016/07/RTSH3XR/lead_large.jpg&#34; target=&#34;_blank&#34;&gt;this
+image&lt;/a&gt; by Reuter&amp;rsquo;s Jonathan Bachman is particularly striking);
+the country&amp;rsquo;s two major political parties are due to hold their respective
+national conventions very soon (in which candidates for U.S. Presidency are formally
+nominated); the augmented-reality industry is (possibly) at our footsteps
+ with the recent release of the iOS and Android application &amp;lsquo;Pok&amp;eacute;mon GO&amp;rsquo;; countless other
+ events of interest are being discussed by the general public (or not at all) in
+ the U.S. and across the world.
+I do not intend to address most current news in any reasonable manner, but I
+do intend to be cognizant of it when writing.&lt;/p&gt;
+
+&lt;p&gt;On the technical side of things, I aim to write about my academic interests and
+inquiries, and communicate ideas and thoughts on relevant academic publications
+and material. I hope to invite qualitative discussion from readers on my technical
+posts; each entry I consider technical in nature will have the &lt;code&gt;technical&lt;/code&gt; category label.
+I am also open to collaborative authorship on technical blog posts&amp;ndash;please
+contact me if you are interested in this.&lt;/p&gt;
+
+&lt;p&gt;As mentioned previously in the blog&amp;rsquo;s disclaimer, I do expect the blog to grow
+and change as I do. I can also imagine the necessity of maintaining strictly
+separate blogs for opinionated and technical content. If you are particularly
+inclined to see this change, you are welcome to comment or contact me.&lt;/p&gt;
+
+&lt;h3 id=&#34;2-3-the-blog-is-not&#34;&gt;2.3. The blog is not&lt;/h3&gt;
+
+&lt;p&gt;a place for blatant/explicit self-advertising or self-promotion. I have little
+interest in spreading word of my blog or its posts without holding good reason,
+nor to write about myself in a manner of qualification or suggestion of suitability
+for a particular paid role or opportunity.
+In the context of sharing or spreading word of a particular blog post I have
+written, a &amp;ldquo;good reason&amp;rdquo; means I believe that sharing such content is directly helpful
+to the recipient at the expenditure of their time, and that I believe I am not
+sharing such a post with explicit self-promotion in mind.
+I do not take any issue with those whom find, read, and subsequently recommend or share the
+blog on their own, nor do I have any issue with those whom directly ask me
+about my blog and its contents. You are welcome to do any of those things as you
+see fit. Keep in mind the &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/4.0/&#34; target=&#34;_blank&#34;&gt;CreativeCommons
+license&lt;/a&gt; at the bottom of this post.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, the blog is not a place for hateful, disrespectful, maligned, or discriminatory
+content or discussion of any kind (either from myself or from readers). Please contact me
+if you believe I may have written insensitive content, so that I may rectify it
+and/or open discussion for it at length in a respectful manner with an appropriate audience.
+I have no intention of offending my readers, and I value any feedback you may
+have for me in this context.&lt;/p&gt;
+
+&lt;p&gt;I will not publish content that I consider to have little value to my
+readers and myself; this includes sponsored advertisements to for-profit
+organizations. Appropriate non-profit organizations or causes which are
+pertinent to the subject of my writing are welcome to a reference or
+potential recommendation from me, provided that including such information
+may be helpful to the reader.&lt;/p&gt;
+
+&lt;p&gt;To the best of my ability, these are the qualities of the blog I intend to keep.
+Other suggestions are welcome in the comments&amp;ndash;this is a highly flexible,
+amendable set of qualities.&lt;/p&gt;
+
+&lt;h2 id=&#34;3-welcome-again&#34;&gt;3. Welcome, again&lt;/h2&gt;
+
+&lt;h3 id=&#34;3-1-schedule&#34;&gt;3.1. Schedule&lt;/h3&gt;
+
+&lt;p&gt;To be frank, I do not have a set schedule for publishing posts. I would like to write on some
+order of a bi-weekly or monthly basis, though I do not consider myself beholden to
+arbitrary quotas if it comes at the expense of content quality and purpose.
+Similarly, I will not write on a topic longer than is needed to communicate my
+full thoughts &amp;ndash; I can imagine, however, needing to redress a topic or return to
+a topic in which I have more meaningful and relevant words to write about. Will
+every post be of similar length to this one? Probably not at all&amp;hellip;but I suspect several
+posts in the future will be even longer.
+If there is a particular topic of interest or piece of published content which
+you would like to see a blog post on here, including my full thoughts on
+the material, you are welcome to contact me!
+(this could be silly in nature, a research-oriented topic, a difficult moral
+or ethical situation, or anything in between; as long as you
+believe that my writing on such material would be
+beneficial to you and the general blog reader.)&lt;/p&gt;
+
+&lt;h3 id=&#34;3-2-the-reader-and-preview&#34;&gt;3.2. The Reader, and Preview&lt;/h3&gt;
+
+&lt;p&gt;Would maintaining an e-mail notification list or similar construct to alert subscribers of a new
+post be useful for the ardent reader?
+Perhaps, but part of me does not like the idea of announcing the presence of new
+content, as if to suggest that my writing has a priority to be read &amp;ndash; an
+implicit assertion or claim that the best use of a person&amp;rsquo;s time and attention
+is to consume the content I created.
+I am more fond of the idea that those whom want to read the blog do so of their
+own volition and initiative.
+Thank you for expending your personal time to scan and interpret the 4060
+words I typed (yes, I had to increment that number by the virtue of typing
+it out. What a fun bug that could be in a program!). Regardless of whether
+or not you agreed with or enjoyed the content, I do appreciate those whom read in
+earnest to-the-end.&lt;/p&gt;
+
+&lt;p&gt;If you have made it this far, thanks for reading! I am aware that this post
+may come across as rather boring&amp;hellip;but I am pleased nonetheless to have
+communicated relevant meta-data about the blog. Stay tuned for more
+inherently interesting (and fun!) posts that I look forward to writing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>subdomains</title>
+      <link>https://havron.dev/subdomains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://havron.dev/subdomains/</guid>
+      <description>&lt;p&gt;One of the more compelling reasons to manage a &lt;a href=&#34;https://havron.xyz&#34; target=&#34;_blank&#34;&gt;personal
+domain&lt;/a&gt;
+rather than depending on &lt;a href=&#34;https://www.cs.cornell.edu/~havron/&#34; target=&#34;_blank&#34;&gt;/~academic/
+webpages&lt;/a&gt; is the ability to easily create
+subdomains and link them to dynamic and static backend servers, RESTful lambda gateways, and so forth.
+All of my publicly-exposed subdomains are as follows; no need to run that hacky
+dig/nmap/superstarred &lt;i class=&#34;fa fa-github&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ script&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size: 40px; font-family: &#39;Lato&#39;, sans-serif;  font-weight: 700&#34;&gt;Subdomains currently maintained&lt;/span&gt;
+&lt;ul class=&#34;ul-interests fa-ul&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://havron.xyz&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;havron.xyz&lt;/code&gt;&lt;/a&gt;; home of my personal webpages. It&amp;rsquo;s hosted on
+static S3 buckets and the CloudFront CDN.
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://sam.havron.xyz&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;sam.havron.xyz&lt;/code&gt;&lt;/a&gt;; a mirror of my personal webpages. I
+suspect this may become the default home for them in the future.
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://www.havron.xyz&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;www.havron.xyz&lt;/code&gt;&lt;/a&gt;; deployed only for &lt;a href=&#34;https://xkcd.com/181/&#34; target=&#34;_blank&#34;&gt;legacy purposes&lt;/a&gt;, this subdomain merely re-directs
+to &lt;code&gt;havron.xyz&lt;/code&gt;.
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;code&gt;m.havron.xyz&lt;/code&gt;; my &lt;a href=&#34;https://www.mailgun.com/&#34; target=&#34;_blank&#34;&gt;mailgun&lt;/a&gt;
+API endpoint. It&amp;rsquo;s what allows my &lt;a href=&#34;https://havron.dev/email/&#34;&gt;personal email addresses&lt;/a&gt; to be
+routed.
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size: 40px; font-family: &#39;Lato&#39;, sans-serif;  font-weight: 700&#34;&gt;Some subdomains I&amp;rsquo;d like to add in the future!&lt;/span&gt;
+&lt;ul class=&#34;ul-interests fa-ul&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;code&gt;oreo.havron.xyz&lt;/code&gt;; home of my cat&amp;rsquo;s personal webpages. It&amp;rsquo;ll probably feature a
+slide-show of sorts.
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;code&gt;api.havron.xyz&lt;/code&gt;; a RESTful, likely
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Serverless_computing&#34; target=&#34;_blank&#34;&gt;server-less&lt;/a&gt; gateway to
+integrate redundant dynamic services as needed across my other subdomains (e.g.
+authentication tokens).
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;code&gt;{git,gitlab}.havron.xyz&lt;/code&gt;; in case GitHub/BitBucket become &amp;ldquo;too social&amp;rdquo; for hosting
+repositories, a GitLab/git server is in order.
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;code&gt;blog.havron.xyz&lt;/code&gt;; this &lt;a href=&#34;https://havron.xyz/blog&#34; target=&#34;_blank&#34;&gt;already exists&lt;/a&gt; as a subdirectory on my personal
+webpages, but it may need to move at some point. I&amp;rsquo;m mostly &lt;a href=&#34;https://medium.com/@samhavron&#34; target=&#34;_blank&#34;&gt;on
+Medium&lt;/a&gt; at
+this point.
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;code&gt;quotes.havron.xyz&lt;/code&gt;; a place to submit and display silly quotes pertaining to my
+friends and family (with permission). Probably only accessible to them.
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;code&gt;grade.havron.xyz&lt;/code&gt;; potentially an appropriate place to host a &lt;a href=&#34;https://ianpudney.com/autograder-audit/paper/autograder-audit.pdf&#34; target=&#34;_blank&#34;&gt;dockerized
+auto-grader&lt;/a&gt;.
+Understandably though, most universities require grading resources to be hosted solely on domains under their
+jurisdiction.
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;code&gt;&amp;lt;class&amp;gt;.havron.xyz&lt;/code&gt;; a place to put materials for classes I might have the
+chance to teach. Probably just an alias for a static mirror on &lt;code&gt;&amp;lt;class&amp;gt;.github.io&lt;/code&gt;.
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;code&gt;*.&amp;lt;project&amp;gt;.havron.xyz&lt;/code&gt;; home for relevant projects, tools, and other public services to run (likely dynamic).
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;code&gt;sandbox.&amp;lt;project&amp;gt;.havron.xyz&lt;/code&gt;; an internal developer view of relevant projects, tools,
+and other public services to run in production.
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;code&gt;random.havron.xyz&lt;/code&gt;; even I don&amp;rsquo;t know what happens when you visit this
+subdomain :-)
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>trivia</title>
+      <link>https://havron.dev/trivia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://havron.dev/trivia/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://havron.dev/img/tatastairs.jpg&#34; alt=&#34;xkcd&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;div-style-text-align-center-grand-staircase-in-the-tata-innovation-center-https-tech-cornell-edu-campus-tata-innovation-center-div&#34;&gt;&lt;div style=&#34;text-align:center&#34;&gt;Grand Staircase in the &lt;a href=&#34;https://tech.cornell.edu/campus/tata-innovation-center&#34; target=&#34;_blank&#34;&gt;Tata Innovation Center&lt;/a&gt;&lt;/div&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;h2&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;ldquo;ask me about&amp;rdquo;&amp;hellip;&lt;/h2&gt;
+&lt;ul class=&#34;ul-interests fa-ul&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://www.nytimes.com/2018/08/10/style/numtot-urbanism-memes.html&#34; target=&#34;_blank&#34;&gt;The NUMTOT subculture&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+IoT &lt;a href=&#34;https://github.com/havron/mubashir&#34; target=&#34;_blank&#34;&gt;pros&lt;/a&gt; and &lt;a href=&#34;https://www.theverge.com/2017/10/25/16538834/amazon-key-in-home-delivery-unlock-door-prime-cloud-cam-smart-lock&#34; target=&#34;_blank&#34;&gt;cons&lt;/a&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+Vegetarianism
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+Left-handedness
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=TudFAEUkR9Y&#34; target=&#34;_blank&#34;&gt;Design flaws&lt;/a&gt;.
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+The time I marched in the Macy&amp;rsquo;s Thanksgiving Day Parade in NYC with the
+&lt;a href=&#34;http://www.cavaliermarchingband.com/&#34; target=&#34;_blank&#34;&gt;Cavalier Marching Band&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;local-attractions&#34;&gt;local attractions&lt;/h2&gt;
+
+&lt;h3 id=&#34;in-ithaca-ny&#34;&gt;in Ithaca, NY&lt;/h3&gt;
+
+&lt;h4 id=&#34;adventure&#34;&gt;adventure&lt;/h4&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://www.cornellbotanicgardens.org/our-gardens/natural-areas/beebe&#34; target=&#34;_blank&#34;&gt;Beebe
+Lake&lt;/a&gt;.
+Great for running!
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;foods&#34;&gt;foods&lt;/h4&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;http://aladdinsnaturaleateryithacany.com/36238&#34; target=&#34;_blank&#34;&gt;Aladdin&amp;rsquo;s&lt;/a&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+ &lt;a href=&#34;https://www.hawiithaca.com/&#34; target=&#34;_blank&#34;&gt;Hawi Ethiopian Cuisine&lt;/a&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;in-nyc&#34;&gt;in NYC&lt;/h3&gt;
+
+&lt;h4 id=&#34;foods-1&#34;&gt;foods&lt;/h4&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;http://www.wuswontonking.com/&#34; target=&#34;_blank&#34;&gt;Wu&amp;rsquo;s Wonton King&lt;/a&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://www.henrinyc.com/&#34; target=&#34;_blank&#34;&gt;Café Henri&lt;/a&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://www.alley41.com/&#34; target=&#34;_blank&#34;&gt;Alley 41 蜀巷&lt;/a&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://www.yelp.com/biz/taste-good-malaysian-cuisine-elmhurst&#34; target=&#34;_blank&#34;&gt;Taste Good&lt;/a&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://www.mothersruinnyc.com/&#34; target=&#34;_blank&#34;&gt;Mother&amp;rsquo;s Ruin&lt;/a&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;http://maharlikanyc.com/&#34; target=&#34;_blank&#34;&gt;Maharlika&lt;/a&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://samudrarestaurant.com/&#34; target=&#34;_blank&#34;&gt;Samudra&lt;/a&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;http://www.nan-xiang.com/&#34; target=&#34;_blank&#34;&gt;Nan Xiang Xiao Long Bao&lt;/a&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;http://nypizzasuprema.com/&#34; target=&#34;_blank&#34;&gt;NY Pizza Suprema&lt;/a&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;http://places.singleplatform.com/phayul-/menu?ref=google&#34; target=&#34;_blank&#34;&gt;Phayul&lt;/a&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;https://www.xianfoods.com/&#34; target=&#34;_blank&#34;&gt;Xi&amp;rsquo;an Famous Foods&lt;/a&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;
+&lt;i class=&#34;fa-li fa fa-hand-o-right&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;http://sevaindianrestaurant.com/&#34; target=&#34;_blank&#34;&gt;Seva&lt;/a&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

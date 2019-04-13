@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/samh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://havron.xyz
+  * I am samh (https://keybase.io/samh) on keybase.
+  * I have a public key with fingerprint 4059 AC71 169A 91DB C8B2  A7DF F0B2
+  * 1A52 20CE BBFB
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid":
+"01012fe6e31dcff5207d8d54b8e50c35f9adb547fe7368b518be832f4d6881a8efad0a",
+            "fingerprint": "4059ac71169a91dbc8b2a7dff0b21a5220cebbfb",
+            "host": "keybase.io",
+            "key_id": "f0b21a5220cebbfb",
+            "kid":
+"01012fe6e31dcff5207d8d54b8e50c35f9adb547fe7368b518be832f4d6881a8efad0a",
+            "uid": "99c381bc90aab4b559f022bf6aca7e19",
+            "username": "samh"
+        },
+        "service": {
+            "hostname": "havron.xyz",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1478464793,
+    "expire_in": 157680000,
+    "prev": "7c311c7ce2caf82eada676d9f65bd8a51d59c0c21389c4e76380437a3df151bb",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJbSBVRFL0+0hSLPozKjHJM+uhWc+Z55iZczUhLr6AEakSX8xqd1DvX
+mfGmiSH0koLKDz8FK6IPIyKwQhF6EhllESQFZUUaIWQPKU2zZsT++uz8HM46a629
+9mbfXZLgS427tuLptw1LK1bFPbzV0eirXNu5qoXDJm3mAi1cLZu/WB1lthOuNSgX
+4HjAA0FnChMBJbouC7xKIZUlDJnME1HWNUSxLKk6U0UFYhlAzKAo6BJVIAQIMh1R
+HnF+Tjci1cyKWkbEcW0lXtYQUQFQNKQBignEAlKprvNYAEgWBJ4wjHXsCmtM21O4
+4TCy2WbDdDH3EZ6P9w/+f87dOG+naUSEABONRwhLWJY1nRcErCuIIJUBzSPazIqg
+euaybVRfw7X6OReJGYR5Q/W6WPitQTHLjGxuaj7oqqKW6ZjErPNwx4naAU/nNEc9
+4gGGwwsWYWxEqDtBVxFjlm2YES4AXCZxDM8TSCqUFEnVRD/HmqKGxcKGx5BVBfLu
+8eqwmGupEhEAohImEKRDgSGKFFWhmq7ImEIkAyprhCcCEKFGJKYqIuQlUUUi1YEM
+sDdfmzVETC6gujFRtdesUR1BTqPFuNbbN/cm+uJSfUmL4r3N8qWmLPu7b/Bk8hwo
+yg6dz8t4WzUTam0rKQ5OZJh278blIWHlrTjuw+Th8uTcgcfDuYGuorRLx3zlwbaU
+GaEwvf/HHn+wdH/+2Kv3I5Mv2ltGie961aPPZXCupH1x1vZwz6FQ/XRO2kx39pf1
+Zx8eCb2szCl7ciq3eiy4PHQnlnn8zf3Zzp8jU/GXU1Z/NzIfVPm6+r/Wlg0WfEzo
+yY3P2b3pdH3elXJrdJ+j5H+YOvMuVlHIr/XvuJdUGfw19HpgqJsLa7uSBsFY8Sfu
+d/vFhC3nchI/bthWmtxRRU8ogdHnBc9wA8oKLd6ZdXB2YqbkaPe6C+MTZY3pWysT
++qavFqzp672GouM3hkf6/gDRADnH
+=R1AU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/samh
+
+==================================================================
+

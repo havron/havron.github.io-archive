@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opinion on sam havron</title>
+    <link>https://havron.dev/categories/opinion/</link>
+    <description>Recent content in Opinion on sam havron</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Sam Havron</copyright>
+    <lastBuildDate>Fri, 15 Jul 2016 13:58:27 -0400</lastBuildDate>
+    
+	<atom:link href="https://havron.dev/categories/opinion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome, and meta-blogging</title>
+      <link>https://havron.dev/blog/2016/welcome-and-meta-blogging/</link>
+      <pubDate>Fri, 15 Jul 2016 13:58:27 -0400</pubDate>
+      
+      <guid>https://havron.dev/blog/2016/welcome-and-meta-blogging/</guid>
+      <description>Welcome to my blog.
+xkcd/741
+Curiosity and participation I spend a lot of time on &amp;ldquo;the web&amp;rdquo; (and while I appreciate the availability of such a seemingly-succinct term, I feel rather guilty by attempting to account for zetta-bytes of indexed data with two 3-letter-1-syllable words). The pages I browse in my leisure are usually interesting enough to keep my attention (admittedly, this is not too high of a threshold), and the best content is often free-of-charge.</description>
+    </item>
+    
+  </channel>
+</rss>
