@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sam Havron</title>
+    <link>https://havron.dev/projects/</link>
+    <description>Recent content in Projects on Sam Havron</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 11 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://havron.dev/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://havron.dev/projects/projects/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://havron.dev/projects/projects/</guid>
+      <description>Publications  R. Chatterjee, P. Doerfler, H. Orgad, S. Havron, J. Palmer, D. Freed, K. Levy, N. Dell, D. McCoy, T. Ristenpart: The Spyware Used in Intimate Partner Violence. IEEE S&amp;amp;P (Oakland) 2018. [Paper PDF]. Media coverage: The New York Times, Vox, Freedom to Tinker (Princeton CITP).
+ S. Havron: Poster: Secure Multi-Party Computation as a Tool for Privacy-Preserving Data Analysis. IEEE S&amp;amp;P (Oakland) 2016. [Paper PDF, Poster PDF]</description>
+    </item>
+    
+  </channel>
+</rss>

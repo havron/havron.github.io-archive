@@ -3,262 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://havron.dev/home/about/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/home/projects/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/home/posts/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/offline/</loc>
-    <lastmod>2018-02-20T17:42:19-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/email/</loc>
-    <lastmod>2017-09-03T17:19:34-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/bio/</loc>
-    <lastmod>2017-07-12T17:48:35-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/coursework/</loc>
-    <lastmod>2016-11-17T12:09:12-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/research/</loc>
-    <lastmod>2016-11-14T13:40:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/fun/</loc>
-    <lastmod>2016-11-06T18:49:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/blog/2016/welcome-and-meta-blogging/</loc>
-    <lastmod>2016-07-15T13:58:27-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/2016/07/</loc>
-    <lastmod>2016-07-15T13:58:27-04:00</lastmod>
+    <loc>https://havron.dev/environs/</loc>
+    <lastmod>2019-05-10T20:58:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://havron.dev/2016/11/</loc>
-    <lastmod>2017-09-03T17:19:34-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/2016/</loc>
-    <lastmod>2016-07-15T13:58:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/2017/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/tags/accessibility/</loc>
-    <lastmod>2016-07-15T13:58:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/authors/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/blog/</loc>
-    <lastmod>2016-07-15T13:58:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/tags/conscientiousness/</loc>
-    <lastmod>2016-07-15T13:58:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/tags/cornell/</loc>
-    <lastmod>2016-11-17T12:09:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/categories/fun/</loc>
-    <lastmod>2016-11-06T18:49:59-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/home/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/tags/human-computer-interaction/</loc>
-    <lastmod>2016-11-14T13:40:07-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/tags/maru/</loc>
-    <lastmod>2016-11-06T18:49:59-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/categories/meta/</loc>
-    <lastmod>2016-07-15T13:58:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/tags/offline/</loc>
-    <lastmod>2018-02-20T17:42:19-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/categories/offline/</loc>
-    <lastmod>2018-02-20T17:42:19-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/categories/opinion/</loc>
-    <lastmod>2016-07-15T13:58:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/tags/privacy/</loc>
-    <lastmod>2016-11-14T13:40:07-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/tags/research/</loc>
-    <lastmod>2016-11-14T13:40:07-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/categories/research/</loc>
-    <lastmod>2016-11-14T13:40:07-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/authors/sam/</loc>
-    <lastmod>2016-07-15T13:58:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/tags/security/</loc>
-    <lastmod>2016-11-14T13:40:07-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/categories/security/</loc>
-    <lastmod>2016-11-14T13:40:07-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/tags/service-worker/</loc>
-    <lastmod>2018-02-20T17:42:19-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/categories/service-worker/</loc>
-    <lastmod>2018-02-20T17:42:19-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/tags/</loc>
-    <lastmod>2016-07-15T13:58:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/tags/teaching/</loc>
-    <lastmod>2016-11-17T12:09:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/categories/teaching/</loc>
-    <lastmod>2016-11-17T12:09:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/tags/underserved-communities/</loc>
-    <lastmod>2016-11-14T13:40:07-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/tags/uva/</loc>
-    <lastmod>2016-11-17T12:09:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/categories/uva/</loc>
-    <lastmod>2016-11-17T12:09:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://havron.dev/tags/xkcd/</loc>
-    <lastmod>2016-07-15T13:58:27-04:00</lastmod>
-    <priority>0</priority>
+    <loc>https://havron.dev/environs/environs/</loc>
+    <lastmod>2019-05-10T20:58:49-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://havron.dev/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-10T20:58:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://havron.dev/subdomains/</loc>
+    <loc>https://havron.dev/projects/</loc>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://havron.dev/trivia/</loc>
+    <loc>https://havron.dev/projects/projects/</loc>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://havron.dev/blog/</loc>
+    <lastmod>2015-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://havron.dev/blog/example-article/</loc>
+    <lastmod>2015-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://havron.dev/about/</loc>
+    <lastmod>2015-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://havron.dev/blog/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://havron.dev/blog/hugo-template-primer/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://havron.dev/blog/getting-started-with-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://havron.dev/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://havron.dev/license/</loc>
   </url>
   
 </urlset>
