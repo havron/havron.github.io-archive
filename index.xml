@@ -6,10 +6,19 @@
     <description>Recent content on Sam Havron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 May 2019 20:58:49 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2019 23:48:36 -0400</lastBuildDate>
     
 	<atom:link href="https://havron.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>https://havron.dev/blog/blog/</link>
+      <pubDate>Sat, 11 May 2019 23:48:36 -0400</pubDate>
+      
+      <guid>https://havron.dev/blog/blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Environs</title>
@@ -18,7 +27,7 @@
       
       <guid>https://havron.dev/environs/environs/</guid>
       <description>A curated list of places that I like and recommend in New York, presented in no particular order (WIP).
-browse  McNally Jackson Independent Booksellers. In Nolita (Manhattan), closest to Bowery , Grand St , or Spring St .  eat  Wu&amp;rsquo;s Wonton King. In Chinatown (Manhattan), from East Broadway . Café Henri. In Long Island City (Queens), from Vernon Boulevard-Jackson Avenue . Alley 41 蜀巷. In Flushing (Queens), from Flushing-Main St .</description>
+browse  McNally Jackson Independent Booksellers. In Nolita (Manhattan), closest to Bowery , Broadway-Lafayette St , or Spring St .  eat  Wu&amp;rsquo;s Wonton King. In Chinatown (Manhattan), from East Broadway . Café Henri. In Long Island City (Queens), from Vernon Boulevard-Jackson Avenue . Alley 41 蜀巷. In Flushing (Queens), from Flushing-Main St .</description>
     </item>
     
     <item>
