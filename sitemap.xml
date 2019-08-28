@@ -3,8 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://havron.dev/media/</loc>
+    <lastmod>2019-08-27T13:17:15-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://havron.dev/media/media/</loc>
+    <lastmod>2019-08-27T13:17:15-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://havron.dev/</loc>
-    <lastmod>2019-06-02T20:09:16-04:00</lastmod>
+    <lastmod>2019-08-27T13:17:15-04:00</lastmod>
     <priority>0</priority>
   </url>
   
