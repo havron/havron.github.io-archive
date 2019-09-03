@@ -6,10 +6,24 @@
     <description>Recent content on Sam Havron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Aug 2019 13:17:15 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2019 09:20:51 -0400</lastBuildDate>
     
 	<atom:link href="https://havron.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RRG</title>
+      <link>https://havron.dev/rrg/</link>
+      <pubDate>Tue, 03 Sep 2019 09:20:51 -0400</pubDate>
+      
+      <guid>https://havron.dev/rrg/</guid>
+      <description>About: A biweekly meeting for graduate students advised by Tom Ristenpart, and other relevant researchers. Email the organizers if you are interested in presenting.
+Time: biweekly on Fridays, 12:00-13:30 EST
+Location: Bloomberg Center 497 (NYC) or Zoom (775-746-986)
+Organizers: Sam Havron (havron@cs.cornell.edu) and Nirvan Tyagi (tyagi@cs.cornell.edu)
+Discussion: Join #rrg on our slack (email organizers for an invitation).
+ </description>
+    </item>
     
     <item>
       <title>Media</title>
