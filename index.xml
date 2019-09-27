@@ -65,8 +65,8 @@ browse  McNally Jackson Independent Booksellers. In Nolita (Manhattan), closest 
       <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://havron.dev/projects/projects/</guid>
-      <description>Publications  &amp;ldquo;Is my phone hacked?&amp;rdquo; Analyzing Clinical Computer Security Interventions with Survivors of Intimate Partner Violence. Diana Freed*, Sam Havron*, Emily Tseng, Andrea Gallardo, Rahul Chatterjee, Thomas Ristenpart, and Nicola Dell. ACM Computer-Supported Cooperative Work and Social Computing (CSCW) 2019 (to appear).
- Clinical Computer Security for Victims of Intimate Partner Violence. Sam Havron*, Diana Freed*, Rahul Chatterjee, Damon McCoy, Nicola Dell, and Thomas Ristenpart. USENIX Security 2019. [Paper PDF].</description>
+      <description>Publications  &amp;ldquo;Is my phone hacked?&amp;rdquo; Analyzing Clinical Computer Security Interventions with Survivors of Intimate Partner Violence. Diana Freed*, Sam Havron*, Emily Tseng, Andrea Gallardo, Rahul Chatterjee, Thomas Ristenpart, and Nicola Dell. ACM Computer-Supported Cooperative Work and Social Computing (CSCW) 2019. [Paper PDF]. Best Paper Honorable Mention Award.
+ Clinical Computer Security for Victims of Intimate Partner Violence. Sam Havron*, Diana Freed*, Rahul Chatterjee, Damon McCoy, Nicola Dell, and Thomas Ristenpart.</description>
     </item>
     
     <item>
@@ -75,7 +75,8 @@ browse  McNally Jackson Independent Booksellers. In Nolita (Manhattan), closest 
       <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>https://havron.dev/about/</guid>
-      <description>Here is a brief biography suitable for use in brochures, advertisements, media, etc. The image on this page should be of sufficient resolution for small printing. My CV/resume is available here, current as of latest commit.
+      <description>Bio/CV
+Here is a brief biography suitable for use in brochures, advertisements, media, etc. The image on this page should be of sufficient resolution for small printing. My CV/resume is available here, current as of latest commit.
 Sam Havron is a PhD candidate in computer science at Cornell University; he is in residence at Cornell Tech on Roosevelt Island in New York City. He is part of a research team studying computer security and privacy issues in the context of intimate partner violence (IPV).</description>
     </item>
     
