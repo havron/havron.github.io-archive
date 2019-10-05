@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Sam Havron</title>
-    <link>https://havron.dev/projects/</link>
-    <description>Recent content in Projects on Sam Havron</description>
+    <title>Research on Sam Havron</title>
+    <link>https://havron.dev/research/</link>
+    <description>Recent content in Research on Sam Havron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 11 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://havron.dev/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://havron.dev/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Projects</title>
-      <link>https://havron.dev/projects/projects/</link>
+      <title>Research</title>
+      <link>https://havron.dev/research/research/</link>
       <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://havron.dev/projects/projects/</guid>
+      <guid>https://havron.dev/research/research/</guid>
       <description>Publications  &amp;ldquo;Is my phone hacked?&amp;rdquo; Analyzing Clinical Computer Security Interventions with Survivors of Intimate Partner Violence. Diana Freed*, Sam Havron*, Emily Tseng, Andrea Gallardo, Rahul Chatterjee, Thomas Ristenpart, and Nicola Dell. ACM Computer-Supported Cooperative Work and Social Computing (CSCW) 2019. [Paper PDF]. Best Paper Honorable Mention Award.
  Clinical Computer Security for Victims of Intimate Partner Violence. Sam Havron*, Diana Freed*, Rahul Chatterjee, Damon McCoy, Nicola Dell, and Thomas Ristenpart.</description>
     </item>
