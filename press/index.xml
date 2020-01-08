@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Media on Sam Havron</title>
-    <link>https://havron.dev/media/</link>
-    <description>Recent content in Media on Sam Havron</description>
+    <title>Press on Sam Havron</title>
+    <link>https://havron.dev/press/</link>
+    <description>Recent content in Press on Sam Havron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 27 Aug 2019 13:17:15 -0400</lastBuildDate>
     
-	<atom:link href="https://havron.dev/media/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://havron.dev/press/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Media</title>
-      <link>https://havron.dev/media/media/</link>
+      <title>Press</title>
+      <link>https://havron.dev/press/press/</link>
       <pubDate>Tue, 27 Aug 2019 13:17:15 -0400</pubDate>
       
-      <guid>https://havron.dev/media/media/</guid>
+      <guid>https://havron.dev/press/press/</guid>
       <description>Outlets my research has been covered in include: The New York Times, MIT Technology Review, WIRED, NPR (WBUR), The Brooklyn Daily Eagle, Vice, Malwarebytes, Vox, Slate, Smart Cities Dive, Technology Review (Deutschland), Cornell Tech Press Room, and The Cornell Chronicle.
 Notable people my research has received public attention from include: U.S. Senator Kamala Harris (D-CA).
 On security &amp;amp; privacy in the context of intimate partner violence:
