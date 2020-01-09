@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sam Havron</title>
@@ -33,7 +33,7 @@ Discussion: Join #rrg on our slack (email organizers for an invitation). PIN for
       <description>Outlets my research has been covered in include: The New York Times, MIT Technology Review, WIRED, NPR (WBUR), The Brooklyn Daily Eagle, Vice, Malwarebytes, Vox, Slate, Smart Cities Dive, Technology Review (Deutschland), Cornell Tech Press Room, and The Cornell Chronicle.
 Notable people my research has received public attention from include: U.S. Senator Kamala Harris (D-CA).
 On security &amp;amp; privacy in the context of intimate partner violence:
- Our work is discussed in &amp;ldquo;For domestic violence victims, cyberstalking is a growing issue.</description>
+  Our work is discussed in &amp;ldquo;For domestic violence victims, cyberstalking is a growing issue.</description>
     </item>
     
     <item>
@@ -56,7 +56,7 @@ Her pounce turns the red bug rosy!</description>
       
       <guid>https://havron.dev/environs/</guid>
       <description>Here is my reading list and a selection of places I recommend in New York. All ordering is arbitrary.
-in New York City browse  McNally Jackson Independent Booksellers. In Nolita (Manhattan), closest to Bowery , Broadway-Lafayette St , or Spring St . Zabar&amp;rsquo;s. On the Upper West Side (Manhattan), closest to 79 St or 81 St - Museum of Natural History .  eat  La Newyorkina. Mexican ice cream.</description>
+in New York City browse  McNally Jackson Independent Booksellers. In Nolita (Manhattan), closest to Bowery , Broadway-Lafayette St , or Spring St . Zabar&#39;s. On the Upper West Side (Manhattan), closest to 79 St or 81 St - Museum of Natural History .  eat  La Newyorkina. Mexican ice cream.</description>
     </item>
     
     <item>
@@ -65,8 +65,8 @@ in New York City browse  McNally Jackson Independent Booksellers. In Nolita (Man
       <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://havron.dev/research/research/</guid>
-      <description>Publications  Diana Freed*, Sam Havron*, Emily Tseng, Andrea Gallardo, Rahul Chatterjee, Thomas Ristenpart, and Nicola Dell. &amp;ldquo;Is my phone hacked?&amp;rdquo; Analyzing Clinical Computer Security Interventions with Survivors of Intimate Partner Violence. ACM Computer-Supported Cooperative Work and Social Computing (ACM CSCW) 2019. [Paper PDF]. Best Paper Honorable Mention Award.
- Sam Havron*, Diana Freed*, Rahul Chatterjee, Damon McCoy, Nicola Dell, and Thomas Ristenpart. Clinical Computer Security for Victims of Intimate Partner Violence.</description>
+      <description>Publications   Diana Freed*, Sam Havron*, Emily Tseng, Andrea Gallardo, Rahul Chatterjee, Thomas Ristenpart, and Nicola Dell. &amp;ldquo;Is my phone hacked?&amp;rdquo; Analyzing Clinical Computer Security Interventions with Survivors of Intimate Partner Violence. ACM Computer-Supported Cooperative Work and Social Computing (ACM CSCW) 2019. [Paper PDF]. Best Paper Honorable Mention Award.
+  Sam Havron*, Diana Freed*, Rahul Chatterjee, Damon McCoy, Nicola Dell, and Thomas Ristenpart. Clinical Computer Security for Victims of Intimate Partner Violence.</description>
     </item>
     
     <item>
@@ -88,7 +88,7 @@ Here is a brief biography suitable for use in talk announcements, press, etc; th
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://havron.dev/home/</guid>
-      <description>-- I&amp;rsquo;m a PhD candidate at Cornell Tech. I&amp;rsquo;m part of a research team studying computer security and privacy issues in the context of intimate partner violence (IPV), and I help lead the first computer security clinic for IPV survivors, in New York City. Here&amp;rsquo;s a bio for talks+press, and CV.</description>
+      <description>-- I&#39;m a PhD candidate at Cornell Tech. I&#39;m part of a research team studying computer security and privacy issues in the context of intimate partner violence (IPV), and I help lead the first computer security clinic for IPV survivors, in New York City. Here&#39;s a bio for talks+press, and CV.</description>
     </item>
     
     <item>
@@ -99,7 +99,7 @@ Here is a brief biography suitable for use in talk announcements, press, etc; th
       <guid>https://havron.dev/license/</guid>
       <description>You can use this page to put a license on the contents of your blog, like so:
  The MIT License (MIT)
-Copyright &amp;copy; 2015 Nishanth Shanmughamnishanth.gerrard@gmail.com
+Copyright (c) 2015 Nishanth Shanmughamnishanth.gerrard@gmail.com
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
     </item>
     
