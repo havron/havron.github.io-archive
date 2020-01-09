@@ -77,9 +77,9 @@ in New York City browse  McNally Jackson Independent Booksellers. In Nolita (Man
       <guid>https://havron.dev/about/</guid>
       <description>CV
 Available here (pdf).
-Bio
-Here is a brief biography suitable for use in talk announcements, media, etc. The image on this page should be of sufficient resolution for small printing.
-Sam Havron is a PhD candidate in computer science at Cornell University; he is in residence at Cornell Tech on Roosevelt Island in New York City. He is part of a research team studying computer security and privacy issues in the context of intimate partner violence (IPV), and he helps lead the first computer security clinic for IPV survivors, in New York City.</description>
+Bio for talks+press
+Here is a brief biography suitable for use in talk announcements, press, etc; this high-resolution image of me should be sufficient for small printing.
+ Sam Havron is a PhD candidate in computer science at Cornell University; he is in residence at Cornell Tech on Roosevelt Island in New York City. He is part of a research team studying computer security and privacy issues in the context of intimate partner violence (IPV), and he helps lead the first computer security clinic for IPV survivors, in New York City.</description>
     </item>
     
     <item>
@@ -88,7 +88,7 @@ Sam Havron is a PhD candidate in computer science at Cornell University; he is i
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://havron.dev/home/</guid>
-      <description>-- I&amp;rsquo;m a PhD candidate at Cornell Tech. I&amp;rsquo;m part of a research team studying computer security and privacy issues in the context of intimate partner violence (IPV), and I help lead the first computer security clinic for IPV survivors, in New York City. Here&amp;rsquo;s a longer bio and my CV.</description>
+      <description>-- I&amp;rsquo;m a PhD candidate at Cornell Tech. I&amp;rsquo;m part of a research team studying computer security and privacy issues in the context of intimate partner violence (IPV), and I help lead the first computer security clinic for IPV survivors, in New York City. Here&amp;rsquo;s a bio for talks+press, and CV.</description>
     </item>
     
     <item>
