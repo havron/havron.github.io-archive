@@ -70,16 +70,13 @@ in New York City browse  McNally Jackson Independent Booksellers. In Nolita (Man
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://havron.dev/about/</link>
+      <title>etc</title>
+      <link>https://havron.dev/bio-cv/</link>
       <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://havron.dev/about/</guid>
-      <description>CV
-Available here (pdf).
-Bio for talks+press
-Here is a brief biography suitable for use in talk announcements, press, etc; this high-resolution image of me should be sufficient for small printing.
- Sam Havron is a PhD candidate in computer science at Cornell University; he is in residence at Cornell Tech on Roosevelt Island in New York City. He is part of a research team studying computer security and privacy issues in the context of intimate partner violence (IPV), and he helps lead the first computer security clinic for IPV survivors, in NYC.</description>
+      <guid>https://havron.dev/bio-cv/</guid>
+      <description>Bio for talks+press Here is a brief biography suitable for use in talk announcements, press, etc; this high-resolution image of me should be sufficient for small printing.
+Sam Havron is a PhD candidate in computer science at Cornell University; he is in residence at Cornell Tech on Roosevelt Island in New York City. He is part of a research team studying computer security and privacy issues in the context of intimate partner violence (IPV), and he helps lead the first computer security clinic for IPV survivors, in NYC.</description>
     </item>
     
     <item>
@@ -88,7 +85,7 @@ Here is a brief biography suitable for use in talk announcements, press, etc; th
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://havron.dev/home/</guid>
-      <description>-- I&#39;m a PhD candidate at Cornell Tech. I&#39;m part of a research team studying computer security and privacy issues in the context of intimate partner violence (IPV), and I help lead the first computer security clinic for IPV survivors, in New York City. Here&#39;s a bio for talks+press, and CV.</description>
+      <description>-- I&#39;m a PhD candidate at Cornell Tech. I&#39;m part of a research team studying computer security and privacy issues in the context of intimate partner violence (IPV), and I help lead the first computer security clinic for IPV survivors, in New York City. Here&#39;s a bio for talks+press.</description>
     </item>
     
     <item>
