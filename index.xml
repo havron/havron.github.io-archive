@@ -6,10 +6,19 @@
     <description>Recent content on Sam Havron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Sep 2019 09:20:51 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2020 10:02:20 -0500</lastBuildDate>
     
 	<atom:link href="https://havron.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accessibility Statement</title>
+      <link>https://havron.dev/accessibility/</link>
+      <pubDate>Mon, 24 Feb 2020 10:02:20 -0500</pubDate>
+      
+      <guid>https://havron.dev/accessibility/</guid>
+      <description>General https://havron.dev strives to ensure that its contents are accessible to people with disabilities. https://havron.dev has invested a significant amount of resources to help ensure that its website is made easier to use and more accessible for people with disabilities, with the strong belief that every person has the right to live with dignity, equality, comfort and independence. Accessibility on https://havron.dev  https://havron.dev makes available the UserWay Website Accessibility Widget that is powered by a dedicated accessibility server.</description>
+    </item>
     
     <item>
       <title>RRG</title>
@@ -70,11 +79,11 @@ Awards  Facebook Fellowship Program Finalist 2020  Top 4% of Applicants (1800+ a
     </item>
     
     <item>
-      <title>etc</title>
-      <link>https://havron.dev/bio-cv/</link>
+      <title>Bio</title>
+      <link>https://havron.dev/bio/</link>
       <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://havron.dev/bio-cv/</guid>
+      <guid>https://havron.dev/bio/</guid>
       <description>Bio for talks+press Here is a brief biography suitable for use in talk announcements, press, etc; this high-resolution image of me should be sufficient for small printing.
 Sam Havron is a PhD candidate in computer science at Cornell University; he is in residence at Cornell Tech on Roosevelt Island in New York City. He is part of a research team studying computer security and privacy issues in the context of intimate partner violence (IPV), and he helps lead the first computer security clinic for IPV survivors, in NYC.</description>
     </item>

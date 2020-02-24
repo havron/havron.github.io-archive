@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://havron.dev/rrg/</loc>
-    <lastmod>2019-09-03T09:20:51-04:00</lastmod>
+    <loc>https://havron.dev/accessibility/</loc>
+    <lastmod>2020-02-24T10:02:20-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://havron.dev/</loc>
+    <lastmod>2020-02-24T10:02:20-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://havron.dev/rrg/</loc>
     <lastmod>2019-09-03T09:20:51-04:00</lastmod>
   </url>
   
@@ -48,7 +53,7 @@
   </url>
   
   <url>
-    <loc>https://havron.dev/bio-cv/</loc>
+    <loc>https://havron.dev/bio/</loc>
     <lastmod>2015-08-22T00:00:00+00:00</lastmod>
   </url>
   
