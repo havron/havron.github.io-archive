@@ -39,7 +39,7 @@ Discussion: Join #rrg on our slack (email organizers for an invitation). PIN for
       <pubDate>Tue, 27 Aug 2019 13:17:15 -0400</pubDate>
       
       <guid>https://havron.dev/press/press/</guid>
-      <description>Outlets my research has been covered in include: The New York Times, MIT Technology Review, WIRED, NPR (Boston), The Brooklyn Daily Eagle, Vice, Malwarebytes, Vox, Slate, Smart Cities Dive, Technology Review (Deutschland), Cornell Tech Press Room, and The Cornell Chronicle.
+      <description>Outlets my research has been covered in include: The New York Times (twice), MIT Technology Review (twice), WIRED (twice), NPR (Boston), The Brooklyn Daily Eagle, Vice, Malwarebytes, Vox, Slate, Smart Cities Dive, Technology Review (Deutschland), Cornell Tech Press Room, and The Cornell Chronicle.
 Notable people my research has received public attention from include: U.S. Senator Kamala Harris (D-CA).
 On security &amp;amp; privacy in the context of intimate partner violence:
   I&#39;m quoted in &amp;ldquo;Domestic Abusers Can Control Your Devices.</description>
@@ -65,7 +65,7 @@ Her pounce turns the red bug rosy!</description>
       
       <guid>https://havron.dev/environs/</guid>
       <description>Here is my reading list and a selection of places I recommend in New York. All ordering is arbitrary.
-in New York City browse  McNally Jackson Independent Booksellers. In Nolita (Manhattan), closest to Bowery , Broadway-Lafayette St , or Spring St . Zabar&#39;s. On the Upper West Side (Manhattan), closest to 79 St or 81 St - Museum of Natural History .  eat  La Newyorkina. Mexican ice cream.</description>
+New York City browse  McNally Jackson Independent Booksellers. In Nolita (Manhattan), closest to Bowery , Broadway-Lafayette St , or Spring St . Zabar&#39;s. On the Upper West Side (Manhattan), closest to 79 St or 81 St - Museum of Natural History .  eat  La Newyorkina. Mexican ice cream. In Greenwich Village (Manhattan), closest to West 4 St - Washington Sq .</description>
     </item>
     
     <item>
@@ -74,8 +74,9 @@ in New York City browse  McNally Jackson Independent Booksellers. In Nolita (Man
       <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://havron.dev/research/research/</guid>
-      <description>Current research collaborators (faculty) include: Tom Ristenpart, Nicki Dell, Rahul Chatterjee, and Damon McCoy.
-Awards  Facebook Fellowship Program Finalist 2020  Top 4% of Applicants (1800+ applied)   NortonLifeLock Graduate Research Fellowship 2020. $20,000  Top 3% of applicants (100+ applied)   Advocate of New York City Award. 2019 Best Paper Honorable Mention for [3] at ACM CSCW. November 2019 Cornell Graduate School Fellowship 2017. $62,000.  Top 20% of Cornell doctoral students.</description>
+      <description>Google Scholar profile
+scite.ai profile
+Awards  Facebook Fellowship Program Finalist 2020. Top 4% of Applicants (1800+ applied) NortonLifeLock Graduate Research Fellowship 2020. $20,000. Top 3% of applicants (100+ applied). Given to CETA. Advocate of New York City Award. 2019 Best Paper Honorable Mention for [3] at ACM CSCW. November 2019 Cornell Graduate School Fellowship 2017. $62,000. Top 20% of graduate researchers at Cornell. Louis T. Rader Award for Outstanding Undergraduate Education at the University of Virginia.</description>
     </item>
     
     <item>
@@ -84,8 +85,8 @@ Awards  Facebook Fellowship Program Finalist 2020  Top 4% of Applicants (1800+ a
       <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>https://havron.dev/bio/</guid>
-      <description>Bio for talks+press Here is a brief biography suitable for use in talk announcements, press, etc; this high-resolution image of me should be sufficient for small printing.
-Sam Havron is a PhD candidate in computer science at Cornell University; he is in residence at Cornell Tech on Roosevelt Island in New York City. He is part of a research team studying computer security and privacy issues in the context of intimate partner violence (IPV), and he helps lead the first computer security clinic for IPV survivors, in NYC.</description>
+      <description>Here is a brief biography suitable for use in talk announcements, press, etc; this high-resolution image of me should be sufficient for small printing.
+Sam Havron (he/him) is a Product Security Engineer at Squarespace in New York, where he analyzes, designs, and builds large-scale systems to improve product security and privacy for millions of diverse creative professionals, photographers, artists, restaurants, and small businesses. Previously, he was a graduate researcher in security at Cornell Tech, where he helped establish the first computer security and privacy clinic for survivors of intimate partner violence who are facing ongoing technology abuse.</description>
     </item>
     
     <item>
@@ -94,7 +95,8 @@ Sam Havron is a PhD candidate in computer science at Cornell University; he is i
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://havron.dev/home/</guid>
-      <description>-- I&#39;m a graduate researcher at Cornell Tech. I&#39;m part of a research team studying computer security and privacy issues in the context of intimate partner violence (IPV), and I help lead the first computer security clinic for IPV survivors, in New York City. Here&#39;s a bio for talks+press.</description>
+      <description>-- I&#39;m a Security Engineer at Squarespace in New York, working on interdisciplinary challenges in product and infrastructure security, as well as privacy engineering. Previously, I was a graduate research assistant at Cornell Tech, where I helped establish the first computer security and privacy clinic for survivors of intimate partner violence who are facing ongoing technology abuse. Here&#39;s a bio for talks+press.
+(Yes, ironically this site is built with Hugo. A Squarespace version is in the works!</description>
     </item>
     
     <item>
